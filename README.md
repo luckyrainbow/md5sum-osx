@@ -1,3 +1,5 @@
+MAC下安装md5sum 如果执行 make all 编译，就需要先用cmake打开一下这个目录，然后configure ，再执行make all
+
 # MD5 sum creator for OS X
 
 ## Introducion
